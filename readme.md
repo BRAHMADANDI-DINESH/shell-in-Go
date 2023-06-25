@@ -1,0 +1,1 @@
+In this  we will write a minimalistic shell for UNIX(-like) operating systems in the Go programming language and it only takes about 60 lines of code. You should be a little bit familiar with Go (e.g. how to build a simple project) and the basic usage of a UNIX shell.
